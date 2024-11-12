@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-# Exploratory data analysis of environmental conditions and marathon performance
+# Predicting smoking abstinence and moderation analysis for behavioral therapy and pharmacotherapy
 
 ### Background & aim
 
