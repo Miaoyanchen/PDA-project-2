@@ -7,10 +7,10 @@
 Previous randomized, placebo-controlled 2x2 factorial design in smokers with major depressive disorder (MDD) comparing behavioral activation for smoking cessation (BASC) versus standard behavioral treatment (ST) and varenicline versus placebo has discovered varenicline improved smoking abstinence. This is a follow-up analysis for the study to examine baseline variables as potential moderators of the effects of behaviorial treatment on abstinence and evaluate baseline variable as predictors of abstinence, controlling for behavioral treatment and pharmacotherapy.
 
 ### Methods
-Multiple imputation is used to address missing data. We employed LASSO regression and best subset regression to perform moderation analysis to investigate the factors influencing smoke cessation and efficacy of the treatment.  Models are evaluated and compared for their performance metrics and coefficients. 
+We used LASSO regression and best subset regression to perform moderation analysis to investigate the factors influencing smoke cessation and efficacy of the treatment. Multiple imputation is used to address missing data. In addition, models are evaluated and compared for their performance metrics and coefficients. 
 
 ### Results
-Predictors of smoking cessation and treatment moderators were identified; however, there is some uncertainty regarding the significance of the coefficients. Larger and more diverse samples are needed to validate these findings and enhance their reliability.
+Predictors of smoking cessation and treatment moderators were identified; however, there are some uncertainty regarding the significance of the coefficients. Larger and more diverse samples are needed to validate these findings and enhance their reliability.
 
 ## Files
 
